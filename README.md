@@ -8,6 +8,3 @@ First, we should do some data preprocessing: clean the data, fill in the missing
 
 ## Conclusion
 Using some data on churned Beta Bank customers, we built a DecisionTreeClassifier that predicts the best option with an F1 score of 0.595 and an AUC-ROC metric of 0.844.
-
-## Rendered on nbviewer
-https://nbviewer.org/github/1vth1nk3r/P_DS_02_Supervised/blob/main/02_Supervised.ipynb
